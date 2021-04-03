@@ -9,14 +9,14 @@ Sou um FullStack Developer :computer:
 
   &nbsp;
   <h4 align="center"> 
-	Desafio: [Desafio 02 - Componentizando a aplicação](<a href="https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1"> Desafio 2</a>)
+	Desafio: [Desafio 03 - Carrinho de Compras](<a href="https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12"> Desafio 3</a>)
   </h4>
   
   <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
   </h1>
 
-<p align="center">:rocket:🚀  Projeto feito para conquetrizar o primeiro modulo do IGNITE @Rocketseat</p>
+<p align="center">:rocket:🚀  Carrinho de compras foi para fixação e entendimento da criação de hooks, usar os hooks existentes. Aprendido no IGNITE curso da @Rocketseat</p>
 
 <p align="center">
     ·
