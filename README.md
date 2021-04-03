@@ -65,19 +65,22 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
-$ git clone https://github.com/joaofnetojfn/ignite-template-reactjs-conceitos-do-react.git
+$ git clone https://github.com/joaofnetojfn/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras.git
 
 ### 💻 Rode o Project Web
 
 ```bash
 # Vá para a pasta web
-$ cd ignite-temp
+$ cd ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras
 
 # Instale as depedencias
 $ yarn install
 
-# Rode a aplicação
-$ yarn dev
+## Rode a aplicação
+#Back-end
+$ yarn server
+#Front-end
+$ yarn start
 
 # Rode o teste 
 $ yarn test
